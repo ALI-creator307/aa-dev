@@ -8,8 +8,8 @@ const body = Plus_Jakarta_Sans({ variable: '--font-body', subsets: ['latin'] })
 const mono = JetBrains_Mono({ variable: '--font-jetbrains-mono', subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Ali — Full Stack Developer',
-  description: 'Portfolio of Ali, a full-stack developer building fast, reliable web products with Next.js, React and Tailwind CSS.',
+  title: 'Asad Ali — Full Stack Architect & AI Specialist',
+  description: 'Portfolio of Asad Ali, a full-stack engineer and AI specialist building fast, reliable web products with Next.js, React, TypeScript and AI workflows.',
   generator: 'v0.app',
   icons: {
     icon: [
